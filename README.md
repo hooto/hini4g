@@ -44,6 +44,7 @@ func main() {
 		fmt.Println("remote/origin/url : ", options.Value("remote/origin/url").String())
 	}
 }
+```
 
 
 Output:
